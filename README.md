@@ -72,6 +72,4 @@
 
 ###
 
-<img align="right" height="20" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"  />
 
-###
