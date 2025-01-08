@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"  />
+<img align="right" height="180" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"  />
 
 ###
 
