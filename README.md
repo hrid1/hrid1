@@ -1,6 +1,9 @@
 
 
-![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@960w.png)
+
+<img align="center"  src="https://www.git-tower.com/blog/assets/img/default-post-header@960w.png"  />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrid1&label=Profile%20views&color=0e75b6&style=flat" alt="hrid1" /> </p>
 
 <h2 align="center">Hey, 👋 I'm Hridoy</h2>
 
@@ -67,6 +70,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hrid1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrid1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="160" alt="languages graph"  />
+
+  <h3 align="left">Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrid1&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
