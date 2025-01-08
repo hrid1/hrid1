@@ -1,6 +1,8 @@
-<img align="center" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"  />
 
-<h2 align="center">Hey 👋 What's up?</h2>
+
+![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@960w.png)
+
+<h2 align="center">Hey, 👋 I'm Hridoy</h2>
 
 ###
 
