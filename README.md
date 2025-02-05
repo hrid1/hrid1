@@ -1,15 +1,18 @@
 
+[![MasterHead](https://raw.githubusercontent.com/SakNoelCode/Imagenes_Proyectos/master/banner.jpg)](#)
+<!--   <img align="center"  src="https://www.git-tower.com/blog/assets/img/default-post-header@960w.png"  /> -->
 
-
-<img align="center"  src="https://www.git-tower.com/blog/assets/img/default-post-header@960w.png"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrid1&label=Profile%20views&color=0e75b6&style=flat" alt="hrid1" /> </p>
 
-<h2 align="center">Hey, 👋 I'm Hridoy</h2>
+<h2 align="center">Hey, 👋 I'm Hridoy!</h2>
 
 ###
 
-<p align="center">I’m a passionate web developer with a knack for problem-solving and creating user-friendly applications. I enjoy exploring new technologies, especially in web development and AI integration. My goal is to build impactful projects and continuously grow as a developer.</p>
+<p align="justify" style="padding: 4px;">
+  I’m a passionate web developer with a knack for problem-solving and creating user-friendly applications. I enjoy exploring new technologies, especially in web development and AI integration. My goal is to build impactful projects and continuously grow as a developer. I thrive in collaborative environments, where I can contribute to innovative solutions and learn from others. With a strong focus on writing clean, efficient code, I aim to create applications that make a difference in people's lives.
+</p>
+
 
 ###
 
@@ -32,7 +35,7 @@
 </div>
 
 ###
-
+<hr/>
 <h3 align="left">Languages and Tools</h3>
 
 ###
@@ -62,14 +65,22 @@
 </div>
 
 ###
-
+<hr/>
 <h3 align="left">My Github Stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrid1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrid1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="160" alt="languages graph"  />
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hrid1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="160" alt="stats graph" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrid1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="160" alt="languages graph" />
+</p>
+
+
+
+<hr/>
 
   <h3 align="left">Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrid1&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
