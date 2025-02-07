@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrid1&label=Profile%20views&color=0e75b6&style=flat" alt="hrid1" /> </p>
 
-<h2 align="center">Hey, 👋 I'm Hridoy!</h2>
+<h1 align="center">Hey, 👋 I'm Hridoy Shil!</h1>
 
 ###
 
