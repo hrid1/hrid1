@@ -25,6 +25,11 @@
 
 ###
 
+### 
+
+
+
+
 <h3 align="left">Connect With Me</h3>
 
 ###
@@ -34,6 +39,14 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
+
+###
+
+### 🌟 Current Activities
+
+- 🚀 Exploring **Next.js** for server-side rendering.
+- 🌍 Working on an educational platform called **EduManage** using the MERN stack.
+- 🎯 Learning advanced backend architecture and deployment strategies.
 
 ###
 <hr/>
