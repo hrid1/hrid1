@@ -3,7 +3,7 @@
 <!--   <img align="center"  src="https://www.git-tower.com/blog/assets/img/default-post-header@960w.png"  /> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrid1&label=Profile%20views&color=0e75b6&style=flat" alt="hrid1" /> </p>
+
 
 <h1 align="center">Hey, 👋 I'm Hridoy Shil!</h1>
 <h3 align="center">Web Developer</h3>
@@ -28,7 +28,7 @@
 ### 
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrid1&label=Profile%20views&color=0e75b6&style=flat" alt="hrid1" /> </p>
 
 <h3 align="left">Connect With Me</h3>
 
@@ -47,6 +47,8 @@
 - 🚀 Exploring **Next.js** for server-side rendering.
 - 🌍 Working on an educational platform called **EduManage** using the MERN stack.
 - 🎯 Learning advanced backend architecture and deployment strategies.
+
+
 
 ###
 <hr/>
