@@ -1,5 +1,5 @@
 
-[![MasterHead](https://raw.githubusercontent.com/SakNoelCode/Imagenes_Proyectos/master/banner.jpg)](#)
+<!--  [![MasterHead](https://raw.githubusercontent.com/SakNoelCode/Imagenes_Proyectos/master/banner.jpg)](#) -->
 <!--   <img align="center"  src="https://www.git-tower.com/blog/assets/img/default-post-header@960w.png"  /> -->
 
 
